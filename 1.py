@@ -6,3 +6,6 @@ if a > b:
 else:
     print("hello")
 
+if 2=2:
+    print ("2")
+
